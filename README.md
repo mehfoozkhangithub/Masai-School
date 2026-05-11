@@ -1,4 +1,5 @@
 # Masai-School
 
-- mehfooz khan
+- Mehfooz khan [Manager]
+- Suraj Yadav [team_lead]
 - Shivam kesharwani
