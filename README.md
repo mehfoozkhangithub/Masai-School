@@ -1,7 +1,7 @@
 # Masai-School
 
-- Mehfooz khan [Manager]
-- Suraj Yadav [team_lead]
+- Mehfooz khan
+- Suraj Yadav
 - Shivam kesharwani
 - kashish gupta
 - luffy
