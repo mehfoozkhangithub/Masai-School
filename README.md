@@ -1,4 +1,4 @@
 # Masai-School
 
-- mehfooz khan
-- Suraj Yadav
+- mehfooz khan [manager]
+- Suraj Yadav [team lead]
